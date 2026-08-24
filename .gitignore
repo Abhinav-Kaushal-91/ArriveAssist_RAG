@@ -1,0 +1,27 @@
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Private keys and certificates
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Python and local environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local application logs
+*.log
+
