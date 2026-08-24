@@ -1,4 +1,4 @@
-# ArriveAssist ðŸ
+# ArriveAssist 
 
 A Streamlit chat interface for an n8n-powered newcomer settlement assistant covering Canadian citizenship, OHIP, and Social Insurance Numbers.
 
