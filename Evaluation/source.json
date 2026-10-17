@@ -1,0 +1,20 @@
+{
+  "repository": "https://github.com/Abhinav-Kaushal-91/ArriveAssist_RAG",
+  "commit": "b2a7c5c6d36effbb3cb229e72c77b94ee430f4b9",
+  "workflow": "Eval Citizenship.json",
+  "workflow_sha256": "f94fd2c0b45f357d32f6f8f6edfcc9f73e40eee261d302c44cc74d0a3ac6fc19",
+  "input_node": "Add Data Array",
+  "mapping": "Original array order; q01-q40; only question, expected_answer, actual_answer, cited_source retained; FLAG comments not scores.",
+  "record_count": 40,
+  "inputs_sha256": "c244f0a71896c2b070edd4667483fc432c5a0cb05848e5e3570d161e77bf8c68",
+  "judge_prompt_sha256": "cb37f45b7fef711aa024789c852955a2e4d5fb3c6aab7f0afaf1328d72b61373",
+  "original_requested_model": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "original_explicit_generation_parameters": {},
+  "original_saved_judge_output_count": 0,
+  "original_successful_scoring_count": null,
+  "original_reported_percentages": {
+    "correctness": 95,
+    "faithfulness": 95
+  },
+  "historical_scores_verified": false
+}

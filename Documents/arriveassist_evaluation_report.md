@@ -55,6 +55,16 @@ framework and environment.
 
 ## 3. Results Summary
 
+> **Evidence status (2026-10-17):** The table below preserves the originally
+> reported figures, not independently recomputed results. The public evaluation
+> workflow contains 40 input records but no saved per-question judge responses;
+> its aggregate code excludes null correctness scores, so the successful scoring
+> denominator cannot be confirmed as 40 from that export alone. See
+> [reproducible evaluation evidence](../Evaluation/README.md) for the pinned
+> inputs, original judge prompt, offline calculator and new-run capture tool.
+> No completed original or new judge run is supplied yet; do not treat the
+> calculator's synthetic tests as evaluation results.
+
 | Metric | Score |
 |---|---|
 | Average correctness | 95% |
