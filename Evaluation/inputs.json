@@ -1,0 +1,282 @@
+[
+  {
+    "id": "q01",
+    "question": "How many days do I need to be physically present in Canada before I can apply for citizenship?",
+    "expected_answer": "At least 1,095 days (3 years) during the 5-year eligibility period before applying.",
+    "actual_answer": "You must have been physically present in Canada for at least 1,095 days (3 years) during the 5-year eligibility period before you can apply for Canadian citizenship.",
+    "cited_source": null
+  },
+  {
+    "id": "q02",
+    "question": "Do I need to file taxes before applying for citizenship?",
+    "expected_answer": "You may need to have filed taxes for at least 3 of the 5 years before applying. You must declare in your application whether you were required to file and whether you did.",
+    "actual_answer": "I don't have that information in my documents.",
+    "cited_source": null
+  },
+  {
+    "id": "q03",
+    "question": "Can I apply for citizenship online or do I have to apply on paper?",
+    "expected_answer": "Online is available and recommended for most applicants. Some fall under exceptions requiring paper applications.",
+    "actual_answer": "You can apply for Canadian citizenship online, and it is the recommended method for most applicants. Applying online is more efficient and saves mailing costs. Information about the required forms and documents is available in your online application account. Some applicants may still need to apply on paper â€” check if you fall under one of the exceptions.",
+    "cited_source": null
+  },
+  {
+    "id": "q04",
+    "question": "What's the difference between applying under subsection 5(1) and 5(2) for a minor?",
+    "expected_answer": "5(2) is for a minor with a Canadian parent, or a parent applying at the same time. 5(1) is for a minor with no Canadian parent and no parent applying concurrently.",
+    "actual_answer": "Subsection 5(2): This applies to a minor (under 18 years old) who has either a Canadian parent or a parent who is applying for citizenship at the same time. The parent or guardian must sign the application, and the minor must also sign if they are between 14 and 17 years old. Subsection 5(1): This applies to a minor who does not have a Canadian parent and whose parent is not applying for citizenship at the same time.",
+    "cited_source": null
+  },
+  {
+    "id": "q05",
+    "question": "Can I lose my permanent resident status while my citizenship application is being processed?",
+    "expected_answer": "PARTIAL/NUANCED: the documents don't describe losing status during processing specifically. They say to confirm you haven't already lost PR status before applying, and that if you're under review for immigration/fraud reasons, processing may be suspended. A correct answer should reflect this adjacent info, not a flat refusal.",
+    "actual_answer": "I don't have that information in my documents.",
+    "cited_source": null
+  },
+  {
+    "id": "q06",
+    "question": "What three documents do I need to bring to get an OHIP health card?",
+    "expected_answer": "Proof of Canadian citizenship or OHIP-eligible immigration status; proof of Ontario residency; proof of identity â€” plus a completed Registration for Ontario Health Insurance Coverage form.",
+    "actual_answer": "To apply for an OHIP health card, you need to bring the following three types of original documents (photocopies are not accepted): Proof of Canadian citizenship or OHIP-eligible immigration status. Proof of residency in Ontario. Proof of identity. You must also bring a completed Registration for Ontario Health Insurance Coverage form.",
+    "cited_source": "https://www.ontario.ca/page/documents-needed-get-health-card"
+  },
+  {
+    "id": "q07",
+    "question": "Is there a waiting period before OHIP coverage starts for new residents?",
+    "expected_answer": "No waiting period. Coverage begins once approved; the 153-day presence rule still applies but you don't need to wait to apply.",
+    "actual_answer": "There is no waiting period for OHIP coverage. If you are eligible, you can apply for OHIP as soon as you arrive in Ontario. You do not need to wait to be physically present for 153 days before applying. Coverage begins once your application is approved and you meet the eligibility requirements.",
+    "cited_source": "https://forms.mgcs.gov.on.ca/en/dataset/014-0265-82"
+  },
+  {
+    "id": "q08",
+    "question": "Does OHIP cover prescription drugs?",
+    "expected_answer": "Not for most adults. OHIP+ covers those 24 and under (and separate programs exist for seniors/low-income).",
+    "actual_answer": "OHIP does not cover most prescription drugs for adults. However, Ontario has the OHIP+ program, which covers prescription medications for eligible children and youth under 25 years old who have a valid Ontario health card.",
+    "cited_source": "https://www.ontario.ca/page/learn-about-ohip-plus"
+  },
+  {
+    "id": "q09",
+    "question": "What do I do if I lose my OHIP health card?",
+    "expected_answer": "KNOWN GAP: not covered by the 5 ingested OHIP pages. A refusal is the correct answer.",
+    "actual_answer": "I don't have that information in my documents.",
+    "cited_source": null
+  },
+  {
+    "id": "q10",
+    "question": "Can I still see a doctor while I wait for my physical OHIP card to arrive?",
+    "expected_answer": "Coverage is active once approved even before the physical card arrives; a temporary confirmation document may be used in the interim.",
+    "actual_answer": "Yes, you can see a doctor while waiting for your physical OHIP card to arrive. If you are eligible for OHIP, you will have immediate health insurance coverage once your application is approved. You may be able to receive care using other forms of identification and proof of OHIP eligibility, such as a temporary confirmation document from ServiceOntario.",
+    "cited_source": null
+  },
+  {
+    "id": "q11",
+    "question": "Does the health card expire, or is it valid for a lifetime?",
+    "expected_answer": "LIKELY GAP: not clearly covered by the 5 ingested pages. A refusal or 'not covered' response is plausible and acceptable.",
+    "actual_answer": "Yes, an Ontario health card expires. You must visit a ServiceOntario centre to replace an expired photo health card after the renewal date. If your card is unexpired, you may be able to replace it by phone if it is lost, stolen, or damaged and your personal information has not changed.",
+    "cited_source": "https://www.ontario.ca/locations/serviceontario"
+  },
+  {
+    "id": "q12",
+    "question": "I want to apply for my health card in Alberta.",
+    "expected_answer": "OHIP is Ontario-specific. The bot should recognize this is out of scope/jurisdiction rather than answering as if Alberta used OHIP.",
+    "actual_answer": "I can't assist with Alberta health card applications. I only have information about Ontario's health coverage (OHIP). For Alberta, you should contact Alberta Health or visit their official website.",
+    "cited_source": null
+  },
+  {
+    "id": "q13",
+    "question": "How do I apply for a SIN if I'm not eligible to apply online?",
+    "expected_answer": "Apply by mail or in person at a Service Canada office, with original identity/status documents.",
+    "actual_answer": "If you are not eligible to apply for a Social Insurance Number (SIN) online, you can apply in person or by mail. You must submit original documents that prove your identity and immigration status. There is no fee to apply for a SIN.",
+    "cited_source": null
+  },
+  {
+    "id": "q14",
+    "question": "What documents prove my identity when applying for a SIN?",
+    "expected_answer": "One primary document proving legal status (e.g. birth certificate, PR card, work/study permit) and one secondary document confirming identity.",
+    "actual_answer": "To apply for a Social Insurance Number (SIN), you need: One primary identity document â€” proves your legal status in Canada. One secondary identity document â€” confirms your identity. If your name has changed, you must also provide supporting documents.",
+    "cited_source": null
+  },
+  {
+    "id": "q15",
+    "question": "Is there a fee to apply for a SIN?",
+    "expected_answer": "No fee.",
+    "actual_answer": "There is no fee to apply for a Social Insurance Number (SIN).",
+    "cited_source": "https://www.canada.ca/en/employment-social-development/services/sin.html"
+  },
+  {
+    "id": "q16",
+    "question": "What does it mean if my SIN starts with the number 9?",
+    "expected_answer": "Issued to temporary residents (work/study permit holders); expiry date matches the immigration document.",
+    "actual_answer": "A Social Insurance Number (SIN) that starts with the number 9 is issued to temporary residents of Canada, such as foreign workers or international students. This type of SIN is linked to the individual's immigration status and has an expiry date that matches the validity of their work or study permit.",
+    "cited_source": "https://www.canada.ca/en/employment-social-development/services/sin/temporary-residents.html"
+  },
+  {
+    "id": "q17",
+    "question": "How do I protect my SIN from fraud?",
+    "expected_answer": "Don't carry the card, only share when legally required, be alert to scam requests, avoid sharing with private businesses unless required by law.",
+    "actual_answer": "To protect your SIN from fraud: Do not carry your SIN card with you. Only provide your SIN when it is legally required. Be cautious about sharing your SIN, especially online or over the phone. Be alert for scams.",
+    "cited_source": null
+  },
+  {
+    "id": "q18",
+    "question": "Can I give my SIN number to my employer?",
+    "expected_answer": "Yes â€” employers are legally required to collect it for payroll/tax purposes, typically within 3 days of employment starting.",
+    "actual_answer": "Yes, you can and must give your Social Insurance Number (SIN) to your employer, but only after you are hired and start earning income. Employers need your SIN to report your income to the Canada Revenue Agency for tax and social benefits purposes. However, you should not provide your SIN on a job application before being hired.",
+    "cited_source": "https://www.canada.ca/en/employment-social-development/services/sin.html"
+  },
+  {
+    "id": "q19",
+    "question": "Give my SIN number to a friend.",
+    "expected_answer": "No â€” this should be flagged as something to avoid; a SIN is confidential and shouldn't be shared with individuals who don't have a legal need for it.",
+    "actual_answer": "I cannot provide your Social Insurance Number (SIN) or any personal information. Sharing your SIN with others, including friends, is not recommended as it can lead to identity theft or fraud.",
+    "cited_source": null
+  },
+  {
+    "id": "q20",
+    "question": "What is the benefit of a SIN number in Canada?",
+    "expected_answer": "Required to work in Canada and to access government programs and benefits (e.g. EI, CPP, tax filing).",
+    "actual_answer": "A Social Insurance Number (SIN) is required in Canada to: Work legally. Access government programs and benefits, such as employment insurance, student loans, grants, and public pensions. File and process tax returns.",
+    "cited_source": null
+  },
+  {
+    "id": "q21",
+    "question": "I just moved to Ontario â€” what's the first thing I need to do?",
+    "expected_answer": "No single 'newcomer checklist' document exists in the corpus. A scoped answer or an honest refusal is acceptable; a vague made-up answer is not.",
+    "actual_answer": "I don't have that information in my documents.",
+    "cited_source": null
+  },
+  {
+    "id": "q22",
+    "question": "Can I get health coverage without a SIN?",
+    "expected_answer": "Yes. SIN is not listed among the required OHIP documents.",
+    "actual_answer": "You do not need a Social Insurance Number (SIN) to apply for Ontario Health Insurance Plan (OHIP) coverage. A SIN is not listed as a required document for OHIP eligibility or application.",
+    "cited_source": "https://www.ontario.ca/page/documents-needed-get-health-card"
+  },
+  {
+    "id": "q23",
+    "question": "Do I need to be a citizen to get OHIP?",
+    "expected_answer": "No. Permanent residents and several other eligible statuses qualify.",
+    "actual_answer": "No, you do not need to be a Canadian citizen to get OHIP. You can qualify with proof of Canadian citizenship or OHIP-eligible immigration status, along with documents proving identity and Ontario residency.",
+    "cited_source": "https://www.ontario.ca/page/documents-needed-get-health-card"
+  },
+  {
+    "id": "q24",
+    "question": "Is my citizenship application affected if I haven't filed taxes every year?",
+    "expected_answer": "Possibly â€” you must declare your tax filing status, and non-compliance when required may affect the application.",
+    "actual_answer": "Yes, your citizenship application can be affected if you haven't filed taxes when required. You must declare this in your application and may need to provide proof of your tax filing status.",
+    "cited_source": null
+  },
+  {
+    "id": "q25",
+    "question": "What happens if I apply for citizenship before I've been in Canada long enough?",
+    "expected_answer": "The application is likely to be refused, since eligibility is assessed as of the date you sign.",
+    "actual_answer": "If you apply for Canadian citizenship before meeting the physical presence requirement, your application will likely be refused. The date you sign your application form is used to determine your eligibility.",
+    "cited_source": null
+  },
+  {
+    "id": "q26",
+    "question": "I have been in Canada for 1,500 days. Can I apply for Canadian citizenship?",
+    "expected_answer": "Yes, on the physical presence requirement specifically (1,500 > 1,095), assuming the days fall within the 5-year window and other requirements are met.",
+    "actual_answer": "Since you have been in Canada for 1,500 days, you meet the minimum physical presence requirement. However, ensure that at least 1,095 of those days occurred within the 5 years before you sign your citizenship application, and that you meet all other eligibility criteria.",
+    "cited_source": null
+  },
+  {
+    "id": "q27",
+    "question": "I have been in Canada for 1,000 days. Can I apply for Canadian citizenship?",
+    "expected_answer": "No, not yet â€” 1,000 is below the 1,095-day minimum.",
+    "actual_answer": "Since you have been in Canada for 1,000 days, you do not yet meet the physical presence requirement. You will need to accumulate an additional 95 days in Canada before you can apply.",
+    "cited_source": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/eligibility.html"
+  },
+  {
+    "id": "q28",
+    "question": "I'm a new permanent resident â€” what do I need to do for citizenship, health coverage, and my SIN?",
+    "expected_answer": "Apply for SIN (needed to work); apply for OHIP in person at ServiceOntario (no waiting period); citizenship isn't available immediately â€” the 1,095-day presence requirement must be met first.",
+    "actual_answer": "Social Insurance Number (SIN): apply online, by mail, or in person; documents include a PR card/COPR plus a secondary ID. Ontario Health Insurance Plan (OHIP): apply in person at ServiceOntario with three original documents. Canadian Citizenship: must first meet the residency requirement (1,095 days in the past 5 years) before applying â€” you cannot apply immediately as a new permanent resident.",
+    "cited_source": null
+  },
+  {
+    "id": "q29",
+    "question": "If my SIN application is rejected, does that affect my citizenship application?",
+    "expected_answer": "LIKELY GAP: no documented connection between the two programs in the corpus. Refusal or 'no known link' are both acceptable.",
+    "actual_answer": "I don't have that information in my documents.",
+    "cited_source": null
+  },
+  {
+    "id": "q30",
+    "question": "Do I need my SIN to prove my identity when applying for OHIP?",
+    "expected_answer": "No â€” SIN is explicitly not an accepted identity document for OHIP.",
+    "actual_answer": "No, you do not need your Social Insurance Number (SIN) to prove your identity when applying for OHIP. Your SIN or SIN confirmation letter is not considered an identity document.",
+    "cited_source": "https://www.ontario.ca/page/documents-needed-get-health-card"
+  },
+  {
+    "id": "q31",
+    "question": "I have a valid PR card â€” am I eligible for both OHIP and eventually citizenship?",
+    "expected_answer": "Yes for OHIP (PR is an eligible status). Eventually yes for citizenship, but only once the 1,095-day presence and other requirements are met â€” not immediately.",
+    "actual_answer": "Yes, as a permanent resident with a valid PR card, you are eligible for both OHIP and eventually Canadian citizenship, provided you meet additional requirements: OHIP requires 153 days presence in Ontario in any 12-month period with no waiting period. Citizenship requires 1,095 days physical presence plus tax filing, language, and testing requirements.",
+    "cited_source": "https://www.ontario.ca/page/ohip-coverage-who-eligible"
+  },
+  {
+    "id": "q32",
+    "question": "I have a health card from Nova Scotia. Can I get checked in Ontario?",
+    "expected_answer": "LIKELY GAP: the ingested OHIP page covers Ontario residents traveling outside Ontario, not the reverse. A refusal is appropriate.",
+    "actual_answer": "I don't have that information in my documents.",
+    "cited_source": null
+  },
+  {
+    "id": "q33",
+    "question": "How do I exchange my foreign driver's licence for an Ontario one?",
+    "expected_answer": "Refusal â€” outside citizenship/OHIP/SIN scope.",
+    "actual_answer": "I can't assist with driver's licence exchanges, as this topic is outside the scope of citizenship, OHIP, or Social Insurance Number (SIN) information I provide. For questions about exchanging a foreign driver's licence in Ontario, please consult the official website of the Ontario Ministry of Transportation or ServiceOntario.",
+    "cited_source": null
+  },
+  {
+    "id": "q34",
+    "question": "How do I open a bank account as a newcomer to Canada?",
+    "expected_answer": "Refusal.",
+    "actual_answer": "I can't assist with opening a bank account as it is outside the topics of citizenship, OHIP, or SIN.",
+    "cited_source": null
+  },
+  {
+    "id": "q35",
+    "question": "What are the rules for a study permit or student visa?",
+    "expected_answer": "Refusal.",
+    "actual_answer": "I can't assist with study permits or student visas. This falls outside the topics I support, which are Canadian citizenship, OHIP, and SIN. Please consult the official IRCC website for information on study permits.",
+    "cited_source": null
+  },
+  {
+    "id": "q36",
+    "question": "How do I file my income taxes for the first time in Canada?",
+    "expected_answer": "Refusal.",
+    "actual_answer": "I can't assist with filing income taxes, as this is outside the topics of citizenship, OHIP, or SIN. I recommend visiting the Canada Revenue Agency (CRA) website or consulting a tax professional.",
+    "cited_source": null
+  },
+  {
+    "id": "q37",
+    "question": "Can you help me find a job in Ontario?",
+    "expected_answer": "Refusal expected. A fabricated URL in the refusal counts as a faithfulness failure, even though the refusal itself is correct.",
+    "actual_answer": "I can't assist with job search or employment services. For help finding a job in Ontario, you can visit the Government of Ontario's job search resources at https://www.ontario.ca/page/find-job or contact Employment Ontario for free support.",
+    "cited_source": "https://www.ontario.ca/page/find-job"
+  },
+  {
+    "id": "q38",
+    "question": "I am on a work visa. Can I get out of the country and come back?",
+    "expected_answer": "Refusal â€” travel/re-entry rules aren't covered by citizenship/OHIP/SIN documents.",
+    "actual_answer": "I can't assist with questions about work visas or travel permissions, as this is outside the scope of citizenship, OHIP, or Social Insurance Number (SIN) matters. You may need to consult Immigration, Refugees and Citizenship Canada (IRCC) for guidance.",
+    "cited_source": null
+  },
+  {
+    "id": "q39",
+    "question": "Can I apply for permanent residency while on a student visa?",
+    "expected_answer": "Refusal â€” PR application pathways aren't covered by this corpus.",
+    "actual_answer": "I can't assist with questions about permanent residency or student visas, as they are outside the scope of citizenship, OHIP, and SIN. Please consult Immigration, Refugees and Citizenship Canada (IRCC) for information on permanent residency applications.",
+    "cited_source": null
+  },
+  {
+    "id": "q40",
+    "question": "Do I need to be a Canadian citizen to apply for a SIN?",
+    "expected_answer": "No â€” citizens, permanent residents, and eligible temporary residents (work/study permit holders) can all apply.",
+    "actual_answer": "No, you do not need to be a Canadian citizen to apply for a Social Insurance Number (SIN). You can apply if you are a Canadian citizen, permanent resident, or temporary resident authorized to work or study in Canada.",
+    "cited_source": "https://www.canada.ca/en/employment-social-development/services/sin.html"
+  }
+]
